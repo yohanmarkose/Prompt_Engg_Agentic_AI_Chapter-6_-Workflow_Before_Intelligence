@@ -1,8 +1,8 @@
 # README: Chapter 6 — Workflow Before Intelligence
 
-From Book: **Design of Agentic Systems with Case Studies**
+from book: *Design of Agentic Systems with CaseStudies*
 
-**Done by: Yohan Markose**
+Done by: Yohan Markose
 ---
 
 ## What This Is
@@ -13,10 +13,11 @@ This is a draft chapter for an AI systems textbook. The chapter is about workflo
 
 ## What's Included
 
-- **Chapter 6 draft** — full prose chapter with opening case, core mechanism, failure analysis, and student problems
+- **Chapter 6 Full Content** — full prose chapter with opening case, core mechanism, failure analysis, and student problems
 - **Author's Note** — explains design choices, tool use, and honest self-assessment of what works and what doesn't
-- **Demo Code** — Demo code demonstrating the primitive building blocks for workflow design
-- **Video Recording** — Full video recording explaining the chapter content and demonstrating the demo code
+- **Demo Code (Workflow Design)** — Code demonstrating the primitive workflow design building blocks
+- **Video Recording** — Full Explanation of the chpater and demonstration of the demo code
+
 
 ---
 
